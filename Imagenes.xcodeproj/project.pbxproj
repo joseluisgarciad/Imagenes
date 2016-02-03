@@ -13,6 +13,7 @@
 		8BF10FD61C611CE900CB048D /* Imagenes.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8BF10FD41C611CE900CB048D /* Imagenes.xcdatamodeld */; };
 		8BF10FD81C611CE900CB048D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BF10FD71C611CE900CB048D /* Assets.xcassets */; };
 		8BF10FDB1C611CE900CB048D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BF10FD91C611CE900CB048D /* LaunchScreen.storyboard */; };
+		8BF10FE31C61212D00CB048D /* ColeccionViewImagenes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF10FE21C61212D00CB048D /* ColeccionViewImagenes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8BF10FD71C611CE900CB048D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BF10FDA1C611CE900CB048D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BF10FDC1C611CE900CB048D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BF10FE21C61212D00CB048D /* ColeccionViewImagenes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColeccionViewImagenes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8BF10FD91C611CE900CB048D /* LaunchScreen.storyboard */,
 				8BF10FDC1C611CE900CB048D /* Info.plist */,
 				8BF10FD41C611CE900CB048D /* Imagenes.xcdatamodeld */,
+				8BF10FE21C61212D00CB048D /* ColeccionViewImagenes.swift */,
 			);
 			path = Imagenes;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BF10FD01C611CE900CB048D /* ViewController.swift in Sources */,
+				8BF10FE31C61212D00CB048D /* ColeccionViewImagenes.swift in Sources */,
 				8BF10FCE1C611CE900CB048D /* AppDelegate.swift in Sources */,
 				8BF10FD61C611CE900CB048D /* Imagenes.xcdatamodeld in Sources */,
 			);
